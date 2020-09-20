@@ -1,4 +1,9 @@
-### Hi there 👋
+### 🐺 Hi there 👋
+
+![medium blog](https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico) [@nishinraj](https://medium.com/@nishinraj)
+
+![twitter handle](https://abs.twimg.com/favicons/twitter.ico) [@nishinrajk](https://www.twitter.com/nishinrajk)
+
 
 <!--
 **nishinraj/nishinraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
